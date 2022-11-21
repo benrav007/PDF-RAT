@@ -87,6 +87,9 @@ benrav007@gmail.ccom
 - support ice cream to Android 12
 - Screenshot (android) NO ROOT
 - Read Permission of apps
+## Requirement
+1 Domain or hosting
+(IF you buy 1 domain or 1 year hosting Free)
 
 ## Note:-Disclaimer:
 Any actions and or activities related to the material contained within this Course is solely your responsibility.The misuse of the information in this Course can result in criminal charges brought against the persons in question. The authors and Course Tutorials will not be held responsible in the event any criminal charges be brought against any individuals misusing the information in this Course to break the law.
